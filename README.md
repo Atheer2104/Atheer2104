@@ -7,7 +7,7 @@ I study at KTH currently in my second year my program is called Information and 
 
 In my time off I like to train in the gym 💪. I like to hang out with my friends and do some activities also when I have some time to spare I enjoy playing games 👾. I also like to explore, tinker, and learn about topics related to anything relay physics, math, programming, history, or whatever really.
 
-### Top 3 Highlited Projects ⭐️  
+### Top 3 Highlighted Projects ⭐️  
 <br>
 <div>  
 <p align="center">
