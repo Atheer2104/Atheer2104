@@ -1,7 +1,5 @@
 <h1 align="center">Hello World! 👋, My name is Atheer Salim</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atheer2104&label=Profile%20views&color=0e75b6&style=flat" alt="atheer2104" /> </p>
-
 ### About Me 🚶‍♂️
 I study at KTH currently in my second year my program is called Information and Communication Technology we have various courses from math to hardware in computers. It's a quite large program it covers the basic about both worlds in computer software and hardware also. If you want to check Curriculum go via this <a href="https://www.kth.se/student/kurser/program/CINTE/20202/arskurs1?l=en">Link<a/>.    
 
