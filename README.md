@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! 👋, My name is Atheer Salim</h1>
 
 ### About Me 🚶‍♂️
-I study at KTH currently in my second year my program is called Information and Communication Technology we have various courses from math to hardware in computers. It's a quite large program it covers the basic about both worlds in computer software and hardware also. If you want to check Curriculum go via this <a href="https://www.kth.se/student/kurser/program/CINTE/20202/arskurs1?l=en">Link<a/>.    
+I am a student at KTH my program is called Information and Communication Technology (Master of Science in Engineering) we have various courses from math to hardware in computers. It's a quite large program it covers the basic about both worlds in computer software and hardware also. Currently I am at my fourth year studying computer science master.
 
 In my time off I like to train in the gym 💪. I like to hang out with my friends and do some activities also when I have some time to spare I enjoy playing games 👾. I also like to explore, tinker, and learn about topics related to anything relay physics, math, programming, history, or whatever really.
 
