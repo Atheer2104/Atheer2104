@@ -10,16 +10,16 @@ In my time off I like to train in the gym 💪. I like to hang out with my frien
 <div>  
 <p align="center">
 <a href="https://github.com/Atheer2104/anime-tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=atheer2104&repo=Anime-tracker-public&show_owner=true&theme=react" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=atheer2104&repo=Anime-tracker&show_owner=true&theme=react" />
 </a>
 &ensp;
 <a href="https://github.com/Atheer2104/Motivation-Quotes-Widget">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=atheer2104&repo=Motivation-Quotes-Widget-public&show_owner=true&theme=react" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=atheer2104&repo=Motivation-Quotes-Widget&show_owner=true&theme=react" />
 </a>
 
 <p align="center">
 <a href="https://github.com/Atheer2104/MotivationalApp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=atheer2104&repo=Motivational-Video-Player-Public&show_owner=true&theme=react" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=atheer2104&repo=MotivationalApp&show_owner=true&theme=react" />
 </a>
 </p>
 </div>
