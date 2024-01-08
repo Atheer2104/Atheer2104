@@ -18,7 +18,7 @@ In my time off I like to train in the gym 💪. I like to hang out with my frien
 </a>
 
 <p align="center">
-<a href="https://github.com/Atheer2104/Motivational-Video-Player-Public">
+<a href="https://github.com/Atheer2104/MotivationalApp">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=atheer2104&repo=Motivational-Video-Player-Public&show_owner=true&theme=react" />
 </a>
 </p>
