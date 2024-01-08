@@ -25,7 +25,7 @@ In my time off I like to train in the gym 💪. I like to hang out with my frien
 </div>
 	
 #### _Note these projects are just the tip of the iceberg feel free to check around my GitHub you will see there is more to see 👀._
-  
+
 ### Contact Me
 You can reach me via email [Click Here](mailto:atheer2104@protonmail.com?subject=GitHub)
 
